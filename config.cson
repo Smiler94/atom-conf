@@ -1,0 +1,61 @@
+"*":
+  "activate-power-mode":
+    plugins:
+      playAudio: true
+      screenShake: true
+  "advanced-open-file":
+    createDirectories: true
+    createFileInstantly: true
+  "atom-beautify":
+    general:
+      _analyticsUserId: "212054f5-be27-4a10-9215-db2e0ec01b4d"
+  core:
+    disabledPackages: [
+      "activate-power-mode"
+      "simplified-chinese-menu"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    confirmCheckoutHeadRevision: false
+    fontFamily: "monospace"
+    fontSize: 16
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "480c84fc-a019-483f-be05-5339662a1a3c"
+  "highlight-selected":
+    highlightBackground: true
+  "linter-ui-default": {}
+  "one-dark-ui": {}
+  "php-debug":
+    currentPanelHeight: "148px"
+    currentPanelMode: "bottom"
+  phpunit:
+    execPath: "phpunit"
+  "platformio-ide-terminal":
+    style:
+      theme: "homebrew"
+  "project-manager":
+    alwaysOpenInSameWindow: true
+  "quick-query":
+    autompleteIntegration: false
+  "seti-ui":
+    compactView: true
+    hideProjectTab: true
+    themeColor: "Steel"
+  "todo-show":
+    ignoreThesePaths: [
+      "node_modules"
+      "vendor"
+      "bower_components"
+      "ThinkPHP"
+      "dist"
+      "Public"
+    ]
+  "tortoise-svn": {}
+  welcome:
+    showOnStartup: false

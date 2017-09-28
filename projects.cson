@@ -1,0 +1,38 @@
+[
+  {
+    title: "Tms241"
+    paths: [
+      "/Applications/MAMP/htdocs/tms241"
+    ]
+  }
+  {
+    title: "Supply Tms"
+    paths: [
+      "/Applications/MAMP/htdocs/supply_tms"
+    ]
+  }
+  {
+    title: "Easy Channel"
+    paths: [
+      "/Applications/MAMP/htdocs/easyChannel"
+    ]
+  }
+  {
+    title: "Supply 217"
+    paths: [
+      "/Applications/MAMP/htdocs/supply_217"
+    ]
+  }
+  {
+    title: "Mywayec101"
+    paths: [
+      "/Applications/MAMP/htdocs/mywayec101"
+    ]
+  }
+  {
+    title: "Oop"
+    paths: [
+      "/Applications/MAMP/htdocs/oop"
+    ]
+  }
+]
